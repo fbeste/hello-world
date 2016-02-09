@@ -1,2 +1,2 @@
 # hello-world
-# ...further text
+# ... further text
